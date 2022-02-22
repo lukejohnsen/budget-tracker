@@ -1,4 +1,4 @@
-const PREFIX = "LukesBudgetTracker-";
+const APP_PREFIX = "LukesBudgetTracker-";
 const VERSION = "version_01";
 const CACHE_NAME = PREFIX + VERSION;
 

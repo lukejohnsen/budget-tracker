@@ -1,7 +1,7 @@
 # Budget-Tracker
 
 ## Description
-This is a progressive web applicatino (PWA that allows you to track a monthly budget both on and offline.)
+This is a progressive web applicatinon (PWA) that allows you to track a monthly budget both on and offline.
 
 ## Table of Contents
 * [Installation](#installation)
